@@ -23,3 +23,13 @@ table tbody tr td:last-of-type {
     justify-content: center;
     gap: .25rem;
 }
+
+table tbody tr td:nth-child(2) {
+    display: none;
+}
+
+@media screen and (min-width: 768px) {
+    table tbody tr td:nth-child(2) {
+        display: table-cell;
+    }
+}
