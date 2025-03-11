@@ -1,0 +1,19 @@
+.navbar-brand img {
+    max-width: 64px;
+}
+
+nav.navbar a.nav-link {
+    color: gray
+}
+
+nav.navbar a.nav-link.active {
+    color: #fff;
+}
+
+nav.navbar button.navbar-toggler {
+    padding: 10px 18px;
+    border: 1px solid gray;
+    box-shadow: none;
+    color: gray;
+    line-height: unset;
+}
