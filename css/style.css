@@ -17,3 +17,9 @@ nav.navbar button.navbar-toggler {
     color: gray;
     line-height: unset;
 }
+
+table tbody tr td:last-of-type {
+    display: flex;
+    justify-content: center;
+    gap: .25rem;
+}
