@@ -45,4 +45,7 @@ Riprodurre il layout **responsive** di una **dashboard** (pannello di controllo 
 
 ---
 
-## 🎉 **Buon lavoro!** 🖥️🚀  
+
+## Anteprima
+
+[-> PREVIEW <-](https://simonelupone.github.io/html-css-bootstrap-dashboard/)
