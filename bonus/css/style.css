@@ -6,8 +6,7 @@ nav.navbar a.nav-link {
     color: gray
 }
 
-nav.navbar a.nav-link.active,
-main button .btn-primary>a {
+nav.navbar a.nav-link.active {
     color: #fff;
 }
 
